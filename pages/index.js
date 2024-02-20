@@ -47,7 +47,7 @@ export default function Home() {
       <div className="relative w-full h-screen">
         <img src="/image/banners/banner-1.jpg" alt="luxorir" className="w-full h-full brightness-[0.9]" />
         <div className="absolute inset-0 flex items-center justify-center">
-          <div className="w-full sm:w-[500px] flex justify-center items-center flex-col lg:gap-9 gap-4">
+          <div className="w-full sm:w-[550px] flex justify-center items-center flex-col lg:gap-9 gap-4">
             <h3 className="text-white uppercase text-heading">luxorir</h3>
             <p className="leading-6 text-center text-white">
               With unshakeable trust, we guarantee the delivery of highly successful and customized marketing strategies
