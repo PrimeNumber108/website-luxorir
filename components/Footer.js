@@ -115,8 +115,8 @@ const Footer = () => {
         </div>
         <div className="flex-col flex-1 w-full gap-5 px-10 bg-black sm:px-28 lg:w-1/2 lg:py-0 py-14 flex-center">
           <p className="lg:w-[100%] text-heading text-2xl text-white text-center mb-1">
-            Reduce spider veins and fractured blood vessels rapidly, strengthen veins, and improve vein wall function to
-            help fade unattractive spider veins.
+            Founded 2009, our company has a rich history marked by continuous growth, innovation, and a commitment to
+            excellence.
           </p>
           <Link href="/about" className="block tracking-[1px] w-fit pb-2">
             <button className="btn btn-white w-fit">ABOUT US</button>
